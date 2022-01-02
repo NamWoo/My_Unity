@@ -22,7 +22,10 @@ Omniverse Isaac Sim 을 main 으로 진행중이지만 틈틈이
 |[Prototype1](https://learn.unity.com/project/unit-1-driving-simulation?uv=2020.3&pathwayId=5f7e17e1edbc2a5ec21a20af&missionId=5f71fe63edbc2a00200e9de0)|Project|Beginner|[posted](https://play.unity.com/mg/other/my-prototype-tutorial)|![img](https://user-images.githubusercontent.com/8021479/147620613-a9a3b020-3ada-4719-bd0f-3422b5df1cea.png)|
 |[Create with Code](https://learn.unity.com/course/create-with-code)|Course|Beginner|||
 |[Creator Kit: Beginner Code](https://learn.unity.com/project/creator-kit-beginner-code)|Project|Beginner||
-|[Unity Essentials](https://learn.unity.com/pathway/unity-essentials)|Pathway|Foundational||
+|[Unity Essentials](https://learn.unity.com/pathway/unity-essentials)|Pathway|Foundational||![](https://images.youracclaim.com/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png)|
+||||posted|Get started with Unity|
+||||ing|Explore Unity|
+||||TODO|Learn Unity|
 |[Junior Programmer](https://learn.unity.com/pathway/junior-programmer?uv=2020.3)|Pathway|oundational||
 
 * [Bonus Features 1 - Share your Work](https://learn.unity.com/tutorial/bonus-features-1-share-your-work#)
