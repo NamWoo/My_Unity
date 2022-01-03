@@ -19,14 +19,17 @@ Omniverse Isaac Sim 을 main 으로 진행중이지만 틈틈이
 |List|Type|Level|Result|Report|
 |:---:|:---:|:---:|:---:|:---:|
 |[Roll-a-Ball](https://learn.unity.com/project/roll-a-ball?uv=2019.4)|Project|Beginner|[posted](https://play.unity.com/mg/other/my-first-unity-roll-a-ball-tutoria-l)|![img](https://user-images.githubusercontent.com/8021479/147547686-5aba1b14-f584-42da-83ca-237d13888b73.png)|
-|[Prototype1](https://learn.unity.com/project/unit-1-driving-simulation?uv=2020.3&pathwayId=5f7e17e1edbc2a5ec21a20af&missionId=5f71fe63edbc2a00200e9de0)|Project|Beginner|[posted](https://play.unity.com/mg/other/my-prototype-tutorial)|![img](https://user-images.githubusercontent.com/8021479/147620613-a9a3b020-3ada-4719-bd0f-3422b5df1cea.png)|
+|[Unit 1 - Player Control](https://learn.unity.com/project/unit-1-driving-simulation?uv=2020.3&pathwayId=5f7e17e1edbc2a5ec21a20af&missionId=5f71fe63edbc2a00200e9de0)|Project|Beginner|[posted](https://play.unity.com/mg/other/my-prototype-tutorial)|![img](https://user-images.githubusercontent.com/8021479/147620613-a9a3b020-3ada-4719-bd0f-3422b5df1cea.png)|
+|[Challenge 1 - Plane Programming](https://learn.unity.com/tutorial/challenge-1-steer-a-plane-through-obstacles-in-the-sky?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5caccdfbedbc2a3cef0efe63)|Tutorial|Beginner||![img](https://connect-prd-cdn.unity.com/20190516/learn/images/e62b3d0d-f8b5-4e1d-acfc-205e42066ea0_c11080pBanner.png.1600x0x1.webp)|
+|[Unit 2 - Basic Gameplay](https://learn.unity.com/project/unit-2-basic-gameplay?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f)|Project|Beginner||![img](https://user-images.githubusercontent.com/8021479/147911225-8034c9a4-dd73-4cde-b2c2-53542135f090.png)|
+|[Challenge 2 - Play Fetch](https://learn.unity.com/tutorial/challenge-2-play-fetch-with-random-values-and-arrays?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cdcc312edbc2a24a41671e6)|Tutorial|Beginner||![img](https://user-images.githubusercontent.com/8021479/147911220-01bcbf36-e862-46a6-bc32-a9f004d5d141.png)|
+|[Mod the Cube](https://learn.unity.com/tutorial/challenge-1-steer-a-plane-through-obstacles-in-the-sky?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5caccdfbedbc2a3cef0efe63)|Tutorial|Beginner|[posted](https://play.unity.com/mg/other/my-mod-the-cube-tutorial)|![img](https://user-images.githubusercontent.com/8021479/147911226-e816cee8-4005-4f8f-b413-402bab94de42.png)|
+|[Unit 3 - Sound and Effects](https://learn.unity.com/project/unit-3-sound-and-effects?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f)|Project|Beginner||![img](https://user-images.githubusercontent.com/8021479/147938060-b555f336-2180-4384-a4f0-c9370989cda7.png)|
+|[Challenge 3 - Balloons, Bombs, & Booleans](https://learn.unity.com/tutorial/challenge-3-bouncy-balloons-bombs-and-booleans?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cf9639bedbc2a2b1fe1e848)|Tutorial|Beginner||![img](https://connect-prd-cdn.unity.com/20190517/learn/images/e06246f4-4500-44fc-bf8a-43730b75f7b8_c31080pBanner.png.1600x0x1.webp)|
 |[Create with Code](https://learn.unity.com/course/create-with-code)|Course|Beginner|||
 |[Creator Kit: Beginner Code](https://learn.unity.com/project/creator-kit-beginner-code)|Project|Beginner||
 |[Unity Essentials](https://learn.unity.com/pathway/unity-essentials)|Pathway|Foundational||![](https://images.youracclaim.com/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png)|
-||||posted|Get started with Unity|
-||||ing|Explore Unity|
-||||TODO|Learn Unity|
-|[Junior Programmer](https://learn.unity.com/pathway/junior-programmer?uv=2020.3)|Pathway|oundational||
+|[Junior Programmer](https://learn.unity.com/pathway/junior-programmer?uv=2020.3)|Pathway|oundational|![](https://images.youracclaim.com/images/28f94e97-1ac3-46cb-9384-e9c44f95758d/00-Junior_Programmer-Pathway.png)|
 
 * [Bonus Features 1 - Share your Work](https://learn.unity.com/tutorial/bonus-features-1-share-your-work#)
 
